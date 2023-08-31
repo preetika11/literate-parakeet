@@ -6,7 +6,7 @@
  <p align="center">
         <a href="https://twitter.com/kaur_preetika">Twitter</a>
         ·
-        <a href="www.linkedin.com/in/preetikakaur">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/preetikakaur/">LinkedIn</a>
         ·
         
 </p>
